@@ -14,28 +14,6 @@
 
 ---
 
-## 🌼 About Me
-
-I’m an aspiring **Information Technology (IT)** professional, passionate about **coding**, **problem-solving**, and exploring **new tech**! I’m always ready to learn, grow, and contribute with enthusiasm 🌟
-
-> "Code with curiosity, grow with confidence!" 💖
-
----
-
-## 🎓 Education
-
-- 🎓 **B.Tech - Information Technology**  
-  *K. Ramakrishnan College of Engineering*  
-  CGPA: `7.3` (2022–2026)
-
-- 📘 **HSC – 81%**  
-  *Mount Carmel Matric Hr. Sec. School* (2022)
-
-- 📘 **SSLC – 93%**  
-  *Mount Carmel Matric Hr. Sec. School* (2020)
-
----
-
 ## 💻 Projects
 
 <details>
@@ -51,40 +29,53 @@ Features:
 > “Simple. Smart. Paperless Travel!”
 
 </details>
----
-
-## 🌱 Internship
-
-- 👩‍💻 **Python Web Development** – Hands-on with backend logic and basic frontend integration.
-
----
-🛠 Skills
-
-▶️ ✨ Programming Languages
-▶️ 🧠 Soft Skills
-▶️ 🛠 Tools
-▶️ 🌍 Languages Known
-
 
 ---
 
-## 🏅 Certifications
+## 🛠 Skills
 
-- ✅ Microsoft Azure Fundamentals
-- ✅ Java Programming (Udemy)
-- ✅ Cloud Computing (NPTEL)
-- ✅ Generative AI (Microsoft & LinkedIn)
-- ✅ Competitive Programming Workshop (Spider R&D, NIT Trichy)
+<details>
+<summary>✨ Programming Languages</summary>
+
+- C (Basics)  
+- Python (Basics)  
+- Java  
+- HTML
+
+</details>
+
+<details>
+<summary>🧠 Soft Skills</summary>
+
+- Time Management  
+- Adaptability  
+- Critical Thinking
+
+</details>
+
+<details>
+<summary>🛠 Tools</summary>
+
+- GitHub
+
+</details>
+
+<details>
+<summary>🌍 Languages Known</summary>
+
+- Tamil  
+- English
+
+</details>
 
 ---
 
-## 📄 My Resume
+## 📜 Certifications
 
-➡️ [Click here to view my resume](SRIJHA%20FINAL%20RESUME%201.pdf)
+<details>
+<summary>📚 My Courses & Certificates</summary>
 
----
-
-<p align="center">
-  Made with 💖 by <strong>Srijha J</strong>
-</p>
-
+- Microsoft Azure Fundamentals  
+- Java Programming (Udemy)  
+- Cloud Computing (NPTEL)  
+- Generative
