@@ -55,10 +55,39 @@ Developed using **PHP & JavaScript**
 
 ## 🛠 Skills
 
-- **Languages:** `C`, `Python`, `Java`, `HTML`
-- **Soft Skills:** `Time Management`, `Adaptability`, `Critical Thinking`
-- **Tools:** `GitHub`
-- **Languages Known:** Tamil 🏡, English 🌍
+<details>
+<summary>✨ Programming Languages</summary>
+
+- C (Basics)  
+- Python (Basics)  
+- Java  
+- HTML
+
+</details>
+
+<details>
+<summary>🧠 Soft Skills</summary>
+
+- Time Management  
+- Adaptability  
+- Critical Thinking
+
+</details>
+
+<details>
+<summary>🛠 Tools</summary>
+
+- GitHub
+
+</details>
+
+<details>
+<summary>🌍 Languages Known</summary>
+
+- Tamil  
+- English
+
+</details>
 
 ---
 
