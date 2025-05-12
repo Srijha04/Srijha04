@@ -1,41 +1,84 @@
-# Srijha J's Portfolio
+<h1 align="center">🌸 Hey there, I'm Srijha J 🌸</h1>
 
-Welcome to my GitHub! I am an aspiring Information Technology (IT) professional seeking an entry-level position where I can apply my knowledge of programming, networking, and software development to contribute to a growing organization.
+<p align="center">
+  📍 Thanjavur &nbsp;|&nbsp;
+  📧 <a href="mailto:srijhajayapal@gmail.com">srijhajayapal@gmail.com</a> &nbsp;|&nbsp;
+  📞 8940229031
+</p>
 
-## 📄 Resume
-- [View my resume (PDF)](SRIJHA%20FINAL%20RESUME%201.pdf)
+<p align="center">
+  <a href="https://www.linkedin.com/in/srijha-jayapal-312aa0257" target="_blank">💼 LinkedIn</a> • 
+  <a href="https://github.com/Srijha04" target="_blank">🐱 GitHub</a> • 
+  <a href="https://www.hackerrank.com/profile/srijhajayapal" target="_blank">💻 HackerRank</a>
+</p>
+
+---
+
+## 🌼 About Me
+
+I’m an aspiring **Information Technology (IT)** professional, passionate about **coding**, **problem-solving**, and exploring **new tech**! I’m always ready to learn, grow, and contribute with enthusiasm 🌟
+
+> "Code with curiosity, grow with confidence!" 💖
+
+---
 
 ## 🎓 Education
-- **K. Ramakrishnan College of Engineering**, B.Tech IT (2022–2026) – CGPA: 7.3
-- **Mount Carmel Matric HSS** – HSC: 81%, SSLC: 93%
+
+- 🎓 **B.Tech - Information Technology**  
+  *K. Ramakrishnan College of Engineering*  
+  CGPA: `7.3` (2022–2026)
+
+- 📘 **HSC – 81%**  
+  *Mount Carmel Matric Hr. Sec. School* (2022)
+
+- 📘 **SSLC – 93%**  
+  *Mount Carmel Matric Hr. Sec. School* (2020)
+
+---
 
 ## 💻 Projects
-- **Bus Pass Management System**  
-  Developed using PHP and JavaScript. Features include:
-  - Online pass application
-  - Admin approval system
-  - Digital pass generation
 
-## 💼 Internship
-- Python Web Development
+### 🚌 Bus Pass Management System  
+Developed using **PHP & JavaScript**  
+- Online bus pass application  
+- Admin approval system  
+- Digital pass generation  
+> "Simple, efficient, and paperless!"
+
+---
+
+## 🌱 Internship
+
+- 👩‍💻 **Python Web Development** – Hands-on with backend logic and basic frontend integration.
+
+---
 
 ## 🛠 Skills
-- **Languages:** C (Basics), Python (Basics), Java, HTML
-- **Soft Skills:** Time Management, Adaptability, Critical Thinking
-- **Tools:** GitHub
-- **Languages Known:** Tamil, English
 
-## 📜 Certifications
-- Microsoft Azure Fundamentals
-- Java Programming (Udemy)
-- Cloud Computing (NPTEL)
-- Generative AI by Microsoft & LinkedIn
-- Workshop on Competitive Programming (Spider R&D, NIT Trichy)
+- **Languages:** `C`, `Python`, `Java`, `HTML`
+- **Soft Skills:** `Time Management`, `Adaptability`, `Critical Thinking`
+- **Tools:** `GitHub`
+- **Languages Known:** Tamil 🏡, English 🌍
 
-## 📫 Contact
-- 📍 Thanjavur  
-- 📧 srijhajayapal@gmail.com  
-- 📞 8940229031  
-- [LinkedIn](http://www.linkedin.com/in/srijha-jayapal-312aa0257)  
-- [GitHub](https://github.com/Srijha04)  
-- [HackerRank](https://www.hackerrank.com/profile/srijhajayapal)
+---
+
+## 🏅 Certifications
+
+- ✅ Microsoft Azure Fundamentals
+- ✅ Java Programming (Udemy)
+- ✅ Cloud Computing (NPTEL)
+- ✅ Generative AI (Microsoft & LinkedIn)
+- ✅ Competitive Programming Workshop (Spider R&D, NIT Trichy)
+
+---
+
+## 📄 My Resume
+
+➡️ [Click here to view my resume](SRIJHA%20FINAL%20RESUME%201.pdf)
+
+---
+
+<p align="center">
+  Made with 💖 by <strong>Srijha J</strong>
+</p>
+
