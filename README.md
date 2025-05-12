@@ -38,12 +38,16 @@ I’m an aspiring **Information Technology (IT)** professional, passionate about
 
 ## 💻 Projects
 
-### 🚌 Bus Pass Management System  
-Developed using **PHP & JavaScript**  
-- Online bus pass application  
-- Admin approval system  
+<details>
+<summary>🚌 Bus Pass Management System</summary>
+
+Developed using **PHP** and **JavaScript** for an online bus pass system with:
 - Digital pass generation  
-> "Simple, efficient, and paperless!"
+- User registration & admin approval  
+- Ticket booking interface  
+
+✨ Goal: Simplify the bus pass process — paperless & user-friendly!
+</details>
 
 ---
 
