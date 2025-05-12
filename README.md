@@ -1,81 +1,38 @@
-<h1 align="center">🌸 Hey there, I'm Srijha J 🌸</h1>
+# Srijha J
 
-<p align="center">
-  📍 Thanjavur &nbsp;|&nbsp;
-  📧 <a href="mailto:srijhajayapal@gmail.com">srijhajayapal@gmail.com</a> &nbsp;|&nbsp;
-  📞 8940229031
-</p>
+[LinkedIn](http://www.linkedin.com/in/srijha-jayapal-312aa0257) | [GitHub](https://github.com/Srijha04) | [HackerRank](https://www.hackerrank.com/profile/srijhajayapal)  
+Thanjavur | 8940229031 | srijhajayapal@gmail.com
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/srijha-jayapal-312aa0257" target="_blank">💼 LinkedIn</a> • 
-  <a href="https://github.com/Srijha04" target="_blank">🐱 GitHub</a> • 
-  <a href="https://www.hackerrank.com/profile/srijhajayapal" target="_blank">💻 HackerRank</a>
-</p>
+## Objective
+Aspiring Information Technology (IT) professional seeking an entry-level position where I can apply my knowledge of programming, networking, and software development to contribute to the success of a growing organization.
 
----
+## Education
+- **B.Tech in Information Technology**  
+  K. Ramakrishnan College of Engineering (2022-2026)  
+  CGPA: 7.3
+- **Higher Secondary Certificate (HSC)**  
+  Mount Carmel Matric Higher Secondary School (2022)  
+  Percentage: 81%
+- **Secondary School Leaving Certificate (SSLC)**  
+  Mount Carmel Matric Higher Secondary School (2020)  
+  Percentage: 93%
 
-## 💻 Projects
+## Projects
+### Bus Pass Management System
+Developed a Bus Pass Management System using PHP and JavaScript for online pass application and ticket booking. Automated user registration, admin approval, and digital pass generation.
 
-<details>
-<summary>🚌 Bus Pass Management System</summary>
+## Internship
+Completed an internship in **Python Web Development**.
 
-Developed a **Bus Pass Management System** using **PHP** and **JavaScript**.
+## Skills
+- **Programming Languages**: C (Basics), Python (Basics), HTML, Java
+- **Soft Skills**: Time Management, Adaptability, Critical Thinking
+- **Tools**: GitHub
+- **Languages**: Tamil, English
 
-Features:
-- 📝 Online pass application  
-- ✅ Admin approval system  
-- 🎫 Digital pass generation  
-
-> “Simple. Smart. Paperless Travel!”
-
-</details>
-
----
-
-## 🛠 Skills
-
-<details>
-<summary>✨ Programming Languages</summary>
-
-- C (Basics)  
-- Python (Basics)  
-- Java  
-- HTML
-
-</details>
-
-<details>
-<summary>🧠 Soft Skills</summary>
-
-- Time Management  
-- Adaptability  
-- Critical Thinking
-
-</details>
-
-<details>
-<summary>🛠 Tools</summary>
-
-- GitHub
-
-</details>
-
-<details>
-<summary>🌍 Languages Known</summary>
-
-- Tamil  
-- English
-
-</details>
-
----
-
-## 📜 Certifications
-
-<details>
-<summary>📚 My Courses & Certificates</summary>
-
-- Microsoft Azure Fundamentals  
-- Java Programming (Udemy)  
-- Cloud Computing (NPTEL)  
-- Generative
+## Certifications
+- **Microsoft Azure Fundamentals Certification**
+- **Udemy**: Complete Guide to Java Programming
+- **NPTEL Swayam Certification** in Cloud Computing
+- **Generative AI Course** by Microsoft and LinkedIn with Certification
+- Completed a **workshop on Introduction to Competitive Programming**, conducted by Spider R&D, NIT Trichy
