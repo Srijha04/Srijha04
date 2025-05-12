@@ -1,16 +1,41 @@
-## Hi there 👋
+# Srijha J's Portfolio
 
-<!--
-**Srijha04/Srijha04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I am an aspiring Information Technology (IT) professional seeking an entry-level position where I can apply my knowledge of programming, networking, and software development to contribute to a growing organization.
 
-Here are some ideas to get you started:
+## 📄 Resume
+- [View my resume (PDF)](SRIJHA%20FINAL%20RESUME%201.pdf)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+- **K. Ramakrishnan College of Engineering**, B.Tech IT (2022–2026) – CGPA: 7.3
+- **Mount Carmel Matric HSS** – HSC: 81%, SSLC: 93%
+
+## 💻 Projects
+- **Bus Pass Management System**  
+  Developed using PHP and JavaScript. Features include:
+  - Online pass application
+  - Admin approval system
+  - Digital pass generation
+
+## 💼 Internship
+- Python Web Development
+
+## 🛠 Skills
+- **Languages:** C (Basics), Python (Basics), Java, HTML
+- **Soft Skills:** Time Management, Adaptability, Critical Thinking
+- **Tools:** GitHub
+- **Languages Known:** Tamil, English
+
+## 📜 Certifications
+- Microsoft Azure Fundamentals
+- Java Programming (Udemy)
+- Cloud Computing (NPTEL)
+- Generative AI by Microsoft & LinkedIn
+- Workshop on Competitive Programming (Spider R&D, NIT Trichy)
+
+## 📫 Contact
+- 📍 Thanjavur  
+- 📧 srijhajayapal@gmail.com  
+- 📞 8940229031  
+- [LinkedIn](http://www.linkedin.com/in/srijha-jayapal-312aa0257)  
+- [GitHub](https://github.com/Srijha04)  
+- [HackerRank](https://www.hackerrank.com/profile/srijhajayapal)
