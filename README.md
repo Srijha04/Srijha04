@@ -52,42 +52,13 @@ Developed using **PHP & JavaScript**
 - 👩‍💻 **Python Web Development** – Hands-on with backend logic and basic frontend integration.
 
 ---
+🛠 Skills
 
-## 🛠 Skills
+▶️ ✨ Programming Languages
+▶️ 🧠 Soft Skills
+▶️ 🛠 Tools
+▶️ 🌍 Languages Known
 
-<details>
-<summary>✨ Programming Languages</summary>
-
-- C (Basics)  
-- Python (Basics)  
-- Java  
-- HTML
-
-</details>
-
-<details>
-<summary>🧠 Soft Skills</summary>
-
-- Time Management  
-- Adaptability  
-- Critical Thinking
-
-</details>
-
-<details>
-<summary>🛠 Tools</summary>
-
-- GitHub
-
-</details>
-
-<details>
-<summary>🌍 Languages Known</summary>
-
-- Tamil  
-- English
-
-</details>
 
 ---
 
