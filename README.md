@@ -10,10 +10,12 @@
 **Thanjavur, India**
 
 ## 📬 Contact  
-- **Email**: [srijhajayapal@gmail.com](mailto:srijhajayapal@gmail.com)  
-- **LinkedIn**: [Srijha Jayapal](http://www.linkedin.com/in/srijha-jayapal-312aa0257)  
-- **GitHub**: [Srijha04](https://github.com/Srijha04)  
-- **HackerRank**: [@srijhajayapal](https://www.hackerrank.com/profile/srijhajayapal)
+
+[Email](mailto:srijhajayapal@gmail.com) • 
+[LinkedIn](http://www.linkedin.com/in/srijha-jayapal-312aa0257) • 
+[GitHub](https://github.com/Srijha04) • 
+[HackerRank](https://www.hackerrank.com/profile/srijhajayapal)
+
 
 ---
 
