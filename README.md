@@ -1,4 +1,6 @@
-# 👩‍💻 Srijha J
+<p align="center">
+  <h1>Srijha J</h1>
+</p>
 
 > *"Turning curiosity into code, one project at a time."*
 
