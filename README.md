@@ -1,9 +1,7 @@
-## Heyyy there 
 <p align="center">
-  <h1>Srijha J</h1>
+  <strong><font size="+4">Srijha J</font></strong><br>
+  <em>"Turning curiosity into code, one project at a time."</em>
 </p>
-
-> *"Turning curiosity into code, one project at a time."*
 
 ---
 
