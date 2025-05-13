@@ -20,25 +20,6 @@
 ---
 
 <details>
-  <summary><strong>🎓 Education</strong></summary>
-
-- 🏫 **B.Tech - Information Technology**  
-  K. Ramakrishnan College of Engineering (2022–2026)  
-  CGPA: 7.3  
-
-- 🏫 **HSC**  
-  Mount Carmel Matric Hr. Sec. School, 2022  
-  Score: 81%  
-
-- 🏫 **SSLC**  
-  Mount Carmel Matric Hr. Sec. School, 2020  
-  Score: 93%
-
-</details>
-
----
-
-<details>
   <summary><strong>🛠️ Skills</strong></summary>
 
 - **Languages**: C, Python, Java, HTML  
