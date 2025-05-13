@@ -1,5 +1,5 @@
 <p align="center">
-  <strong><font size="+20"><h1>Srijha J</h1></font></strong><br>
+  <strong><font size="+100">Srijha J</font></strong><br>
   <em>"Turning curiosity into code, one project at a time."</em>
 </p>
 
