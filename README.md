@@ -1,4 +1,3 @@
-
 # Srijha J
 
 🎓 B.Tech IT Student | 💻 Aspiring Developer  
@@ -18,16 +17,24 @@
 
 ---
 
-## Projects
-**Bus Pass Management System**  
-Web app using PHP & JS for pass application and booking.
+<details>
+  <summary><strong>Projects</strong></summary>
+
+- **Bus Pass Management System**  
+  Web app using PHP & JavaScript for online pass application, booking, and admin approval.
+
+</details>
 
 ---
 
-## Certifications
-- Azure Fundamentals  
+<details>
+  <summary><strong>Certifications</strong></summary>
+
+- Microsoft Azure Fundamentals  
 - Java (Udemy)  
 - Cloud Computing (NPTEL)  
 - Generative AI (Microsoft)
+
+</details>
 
 ---
